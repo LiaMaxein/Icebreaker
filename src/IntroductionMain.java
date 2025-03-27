@@ -7,6 +7,7 @@ public class IntroductionMain {
         List<Favourite> faves = new ArrayList<>();
         faves.add(new Favourite("Ameise", Medium.BOOK));
         faves.add(new Favourite("Deine Mudda", Medium.SERIES, "Ist nicht so amused."))
+jjaksdhkjhdfkjhdf
 
         System.out.printf("Uebung Icebreaker");
 
